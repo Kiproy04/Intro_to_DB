@@ -26,6 +26,10 @@ Videos/
 .idlerc/
 .vscode/
 Dropbox/
-*.DAT 
-*.log
-*.dat 
+LocalRepoProject/
+NTUSER.DAT{56025270-3123-11f0-9db4-d0c5d3d6ce54}.TM.blf
+NTUSER.DAT{56025270-3123-11f0-9db4-d0c5d3d6ce54}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{56025270-3123-11f0-9db4-d0c5d3d6ce54}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
