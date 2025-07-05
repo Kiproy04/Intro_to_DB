@@ -1,5 +1,5 @@
 "CREATE TABLE ", "Authors", "author_id ", "author_name"
-"CREATE TABLE", "Books", "book_id", "title", "author_id", "price", "publication_date"
+"CREATE TABLE", "Books", "book_id", "PRIMARY KEY" "title", "author_id", "price", "publication_date"
 "CREATE TABLE", "Customers", "customer_id", "customer_name", "email", "address"
 "CREATE TABLE", "Orders", "order_id", "customer_id", "order_date"
 "CREATE TABLE", "Order_details", "orderdetail", "order_id", "book_id", "quantity"
