@@ -1,5 +1,9 @@
 import mysql.connector
 
+"CREATE DATABASE IF NOT EXISTS alx_book_store;"
+"USE alx_book_store;"
+
+
 def connect_to_mysql():
     try:
         connection = mysql.connector.connect(
@@ -23,4 +27,4 @@ def close_connection(connection):
         connection.close()
         print("MySQL connection is closed.")
 
-        
+
